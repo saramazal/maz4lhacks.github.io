@@ -18,7 +18,7 @@ timezone: UTC
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: airtfull-hacks
+title: Airtfull Hacks
 tagline: Cybersecurity Write-ups and Hacks
 description: >- # used by seo meta and the atom feed
   Simple blog for sharing writeups and such
