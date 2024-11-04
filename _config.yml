@@ -23,13 +23,13 @@ tagline: Cybersecurity Write-ups and Hacks
 description: >- # used by seo meta and the atom feed
   Simple blog for sharing writeups and such
 
-url: "https://airtfullhacks.github.io"
+url: "https://github.com/airtfullhacks.github.io"
 
 github:
   username: saramazal
 
 twitter:
-  username: # optional
+  username: mazalspace
   card: summary
 
 social:

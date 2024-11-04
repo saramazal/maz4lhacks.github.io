@@ -1,6 +1,6 @@
 {
   // Prettier
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "Jota0222.multi-formatter",
   "editor.formatOnSave": true,
   // Shopify Liquid
   "files.associations": {
