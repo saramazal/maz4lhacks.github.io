@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-### Welcome to my new Blog Airtfull Hacks!
+### Welcome to my new Blog Aiartful Hacks!
