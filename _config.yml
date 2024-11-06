@@ -34,9 +34,11 @@ twitter:
 
 social:
   # Change to your full name.
-  name: Sara Mazal
+  name: saramazal
   links:
     - https://github.com/saramazal
+    - https://twitter.com/mazalspace
+    - https://www.linkedin.com/in/sara-mazal
 
 google_site_verification: # fill in to your verification string
 
@@ -74,6 +76,10 @@ img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/avatar.jpg
+
+# The URL of the site-wide social preview image used in SEO `og:image` meta tag.
+# It can be overridden by a customized `page.image` in front matter.
+social_preview_image: /assets/img/avatar-prev.jpg # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
