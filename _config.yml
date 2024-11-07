@@ -46,7 +46,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-VY2F5E7SER # fill in your Google Analytics ID
 
 # PWA
 pwa:
@@ -107,12 +107,16 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: true # boolean, keep empty means false
+    enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
     env: # [development|production]
 
 paginate: 10
+
+header_pages:
+  - _tabs/certification.md
+
 
 # ------------ The following options are not recommended to be modified ------------------
 
