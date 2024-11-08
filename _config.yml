@@ -23,7 +23,7 @@ tagline: Cybersecurity Write-ups and Hacks
 description: >- # used by seo meta and the atom feed
   Simple blog for sharing writeups and such
 
-url: "https://github.com/saramazal/airtfullhacks.github.io"
+url: "https://github.com/saramazal/aiartfulhacks.github.io"
 
 github:
   username: saramazal
@@ -80,7 +80,7 @@ avatar: /assets/img/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: /assets/img/cover.jpg # string, local or CORS resources
+social_preview_image: /images/cover.jpg # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
