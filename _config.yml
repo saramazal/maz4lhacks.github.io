@@ -7,6 +7,14 @@ theme: jekyll-theme-chirpy
 # and doesn't have a custom domain.
 baseurl: ""
 
+ #The site favicon
+favicon:
+  # browser tab icon
+  icon: "/assets/img/favicons/favicon.ico"
+  # mobile home screen icon
+  touch_icon: "/assets/img/favicons/apple-touch-icon.png"
+
+
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
@@ -49,14 +57,24 @@ google_site_verification: # fill in to your verification string
 google_analytics:
   id: G-VY2F5E7SER # fill in your Google Analytics ID
 
-# PWA
+# PWA manifest
 pwa:
-  enabled: true # you enabled pwa
+  enabled: true
+  manifest:
+    background_color: "#ffffff"
+    theme_color: "#03a2fd"
+    display: standalone
+    icons:
+      - size: 192x192
+        src: "/assets/img/favicons/android-chrome-192x192.png"
+      - size: 512x512
+        src: "/assets/img/favicons/android-chrome-512x512.png"
+        
   cache:
     enabled: true
 
 # Prefer color scheme setting.
-#
+
 # Note: Keep empty will follow the system prefer color by default,
 # and there will be a toggle to switch the theme between dark and light
 # on the bottom left of the sidebar.
