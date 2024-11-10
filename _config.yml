@@ -21,9 +21,9 @@ timezone: UTC
 title: Aiartful Hacks
 tagline: Cybersecurity Write-ups and Hacks
 description: >- # used by seo meta and the atom feed
-  Simple blog for sharing writeups and such
+  Blog for sharing Cybersecurity Write-ups and Hacks
 
-url: "https://github.com/saramazal/aiartfulhacks.github.io"
+url: "https://aiartfulhacks.vercel.app/"
 
 github:
   username: saramazal
@@ -76,7 +76,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar.jpg
+avatar: /assets/img/avatar-prev2.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
