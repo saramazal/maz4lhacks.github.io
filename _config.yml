@@ -26,10 +26,10 @@ timezone: UTC
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Aiartful Hacks
+title: Mazal_Hacks
 tagline: Cybersecurity Write-ups and Hacks
 description: >- # used by seo meta and the atom feed
-  Blog for sharing Cybersecurity Write-ups and Hacks
+  Blog for sharing Cybersecurity Write-ups
 
 url: "https://aiartfulhacks.vercel.app/"
 
