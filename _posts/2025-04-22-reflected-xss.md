@@ -2,7 +2,7 @@
 title: "Reflected XSS: Explained with Real Examples"
 author: saramazal
 layout: post
-date: 2025-04-17
+date: 2025-04-22
 categories: [XSS]
 tags: [xss, web, pentesting, tryhackme, client-side, appsec]
 img_path: /images/covers
