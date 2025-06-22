@@ -1,0 +1,12 @@
+# Query:   - scope:\n      path: assets/img/favicons\n    values:\n      swcache: true
+# ContextLines: 1
+
+1 result - 1 file
+
+_config.yml:
+  178        permalink: /:title/
+  179:   - scope:
+  180:       path: assets/img/favicons
+  181:     values:
+  182:       swcache: true
+  183    - scope:
