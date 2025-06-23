@@ -36,5 +36,5 @@
 #   url: ''                   # Fill with your Reddit profile link
 #
 - type: threads
-  icon: 'fa-brands fa-threads'
-  url: 'https://www.threads.net/@maz4lhacks'                   # Fill with your Threads profile link
+  icon: 'fa-solid fa-play'
+  url: 'https://mazal-music.vercel.app/'                   # Fill with your Threads profile link
